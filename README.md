@@ -37,10 +37,14 @@
 ## Overview
 
 _Screenshot fullscreen_
+
+
 ![screenshot Fullscreen](images/fullversion.png)
 
 _Screenshot mobile_
-![screenshot mobile](images/mobileversio.png)
+
+
+![screenshot mobile](images/phoneversion.png)
 
 
 
